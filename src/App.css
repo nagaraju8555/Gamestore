@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  background-color: #282c34;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -36,3 +37,4 @@
     transform: rotate(360deg);
   }
 }
+
